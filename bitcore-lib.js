@@ -54082,9 +54082,9 @@ var bitcore = module.exports;
 bitcore.version = 'v' + require('./package.json').version;
 bitcore.versionGuard = function(version) {
   if (version !== undefined) {
-    var message = 'More than one instance of bitcore-lib found. ' +
-      'Please make sure to require bitcore-lib and check that submodules do' +
-      ' not also include their own bitcore-lib dependency.';
+    var message = 'More than one instance of aibcore-lib found. ' +
+      'Please make sure to require aibcore-lib and check that submodules do' +
+      ' not also include their own aibcore-lib dependency.';
     throw new Error(message);
   }
 };

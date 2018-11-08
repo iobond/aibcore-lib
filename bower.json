@@ -1,12 +1,12 @@
 {
-  "name": "bitcore-lib",
+  "name": "aibcore-lib",
   "main": "./bitcore-lib.min.js",
   "version": "5.0.0-beta.1",
   "homepage": "http://bitcore.io",
   "authors": ["BitPay, Inc."],
   "description": "A pure, powerful core for your bitcoin project.",
   "moduleType": ["globals"],
-  "keywords": ["bitcoin", "bitcore", "btc", "satoshi"],
+  "keywords": ["AIB", "aibcore", "aib", "satoshi"],
   "license": "MIT",
   "ignore": [
     "**/.*",
