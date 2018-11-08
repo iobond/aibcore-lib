@@ -1,6 +1,6 @@
 {
   "name": "aibcore-lib",
-  "version": "0.15.6",
+  "version": "0.15.7",
   "description": "A pure and powerful JavaScript AIB coin library.",
   "author": "AIB Dev <dev@aib.one>",
   "main": "index.js",
