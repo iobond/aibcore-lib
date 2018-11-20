@@ -10,6 +10,7 @@ var Networks = bitcore.Networks;
 var Opcode = bitcore.Opcode;
 var PublicKey = bitcore.PublicKey;
 var Address = bitcore.Address;
+var Token = bitcore.Token;
 
 describe('Script', function() {
 
